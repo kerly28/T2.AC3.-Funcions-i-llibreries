@@ -1,20 +1,26 @@
 # Proves
 ## Equivalencies
 
-Caso de prova 1. {10, 10000, 90000} 
+Nivell de maldat: {1000 - 50000}
 
-//Et torni a demanar la "maldad" 
+Nom de l'avatar: {2 - 25}
 
-Caso de prova 2. {1, 10, 90} 
+Caracters especials: { "@", "#", "-", "/", "_" } - {$, !, ·, %, &, (, ), =, \, |}
 
-Caso de prova 3. {a, @, 9} 
+Vocals: {a, e, i, o, u}
 
 
 ## Limits
 
 num ha de ser un número entre 1000 i 50000, no inclosos. Ej 1001 o 49999.
 
+Maldat: {999, 50001}
+
 name ha de ser major que 2 i més petit que 25 snese incloure'ls.Ej 3 o 24.
+
+Nom: {1, 26}
+
+Caracters especials: {$, !, ·, %, &, (, ), =, \, |}
 
 
 ## Casos de prova
